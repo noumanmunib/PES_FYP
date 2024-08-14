@@ -1,7 +1,3 @@
-Here's a professional README file for your GitHub repository:
-
----
-
 # Personalized Education Platform Using Machine Learning
 
 ## Project Overview
